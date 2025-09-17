@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Company.Core.Utils",
+    "version": "2.1.5",
+    "downloads": 15420,
+    "lastUpdated": "2024-03-15",
+    "description": "Core utility functions and helpers for company applications"
+  },
+  {
+    "name": "Company.Data.Access",
+    "version": "3.2.1",
+    "downloads": 12890,
+    "lastUpdated": "2024-03-20",
+    "description": "Data access layer with Entity Framework integration"
+  },
+  {
+    "name": "Company.Security.Auth",
+    "version": "1.8.3",
+    "downloads": 9875,
+    "lastUpdated": "2024-03-18",
+    "description": "Authentication and authorization components"
+  },
+  {
+    "name": "Company.Web.Components",
+    "version": "4.0.2",
+    "downloads": 8643,
+    "lastUpdated": "2024-03-22",
+    "description": "Reusable web components and UI controls"
+  },
+  {
+    "name": "Company.Logging.Framework",
+    "version": "2.3.7",
+    "downloads": 11234,
+    "lastUpdated": "2024-03-10",
+    "description": "Structured logging framework with multiple providers"
+  },
+  {
+    "name": "Company.Configuration.Manager",
+    "version": "1.5.4",
+    "downloads": 7692,
+    "lastUpdated": "2024-03-17",
+    "description": "Configuration management with environment-specific settings"
+  },
+  {
+    "name": "Company.API.Client",
+    "version": "3.1.8",
+    "downloads": 6547,
+    "lastUpdated": "2024-03-25",
+    "description": "HTTP client wrapper for company API endpoints"
+  },
+  {
+    "name": "Company.Testing.Helpers",
+    "version": "2.0.6",
+    "downloads": 5432,
+    "lastUpdated": "2024-03-12",
+    "description": "Unit testing utilities and mock objects"
+  },
+  {
+    "name": "Company.Validation.Rules",
+    "version": "1.7.2",
+    "downloads": 4891,
+    "lastUpdated": "2024-03-19",
+    "description": "Business rule validation engine"
+  },
+  {
+    "name": "Company.Cache.Redis",
+    "version": "2.4.1",
+    "downloads": 4123,
+    "lastUpdated": "2024-03-21",
+    "description": "Redis caching implementation with distributed support"
+  },
+  {
+    "name": "Company.Email.Service",
+    "version": "1.6.9",
+    "downloads": 3654,
+    "lastUpdated": "2024-03-14",
+    "description": "Email service with template support and delivery tracking"
+  },
+  {
+    "name": "Company.File.Storage",
+    "version": "2.2.3",
+    "downloads": 3287,
+    "lastUpdated": "2024-03-16",
+    "description": "File storage abstraction supporting local and cloud providers"
+  },
+  {
+    "name": "Company.Monitoring.Health",
+    "version": "1.4.5",
+    "downloads": 2941,
+    "lastUpdated": "2024-03-23",
+    "description": "Health check endpoints and monitoring utilities"
+  },
+  {
+    "name": "Company.Serialization.Json",
+    "version": "3.0.4",
+    "downloads": 2756,
+    "lastUpdated": "2024-03-11",
+    "description": "JSON serialization with custom converters"
+  },
+  {
+    "name": "Company.Cryptography.Utils",
+    "version": "1.9.1",
+    "downloads": 2483,
+    "lastUpdated": "2024-03-24",
+    "description": "Cryptographic utilities for encryption and hashing"
+  },
+  {
+    "name": "Company.Workflow.Engine",
+    "version": "2.5.2",
+    "downloads": 2157,
+    "lastUpdated": "2024-03-13",
+    "description": "Workflow engine for business process automation"
+  },
+  {
+    "name": "Company.Reports.Generator",
+    "version": "1.3.6",
+    "downloads": 1892,
+    "lastUpdated": "2024-03-26",
+    "description": "Report generation with multiple output formats"
+  },
+  {
+    "name": "Company.Integration.SAP",
+    "version": "4.1.3",
+    "downloads": 1654,
+    "lastUpdated": "2024-03-09",
+    "description": "SAP integration components and data synchronization"
+  },
+  {
+    "name": "Company.Mobile.Push",
+    "version": "1.2.8",
+    "downloads": 1423,
+    "lastUpdated": "2024-03-27",
+    "description": "Push notification service for mobile applications"
+  },
+  {
+    "name": "Company.Analytics.Tracking",
+    "version": "2.7.4",
+    "downloads": 1198,
+    "lastUpdated": "2024-03-08",
+    "description": "User analytics and event tracking framework"
+  }
+]
